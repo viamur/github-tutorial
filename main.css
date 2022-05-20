@@ -1,9 +1,10 @@
-body {
-  background-color: antiquewhite;
-}
+
 p {
   color: azure;
 }
 a {
-  text-decoration: none;
+  /* text-decoration: none; */
+}
+address {
+  /*   text-shadow: 1px 1px 1px #fff; */
 }
